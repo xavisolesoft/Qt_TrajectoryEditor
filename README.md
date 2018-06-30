@@ -1,5 +1,5 @@
 # Qt Trajectory Editor
-Trajectory editor Model-view-controller sample project.
+Trajectory editor Model-view-controller C++/QtWidgets sample project.
 
 ![](Documentation/ApplicationSnapShot1.png)
 
